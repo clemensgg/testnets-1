@@ -36,7 +36,7 @@ sudo apt install build-essential -y
 echo "Installing binary..."
 cd $HOME
 
-rm -rf elys
+rm -rf elys || true
 git clone https://github.com/monopauli/elys.git
 cd elys
 git checkout $CHAIN_VERSION
