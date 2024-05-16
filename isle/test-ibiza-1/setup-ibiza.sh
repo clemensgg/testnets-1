@@ -10,7 +10,7 @@ NODE_MONIKER=ibiza
 SERVICE_NAME=test-ibiza-1
 SERVICE_DESCRIPTION="test-ibiza-1 node"
 CHAIN_VERSION="v0.30.0-isle"
-GAS_PRICE=0uelys
+GAS_PRICE=0uibiza
 # ***
 
 CHAIN_BINARY='elysd'
